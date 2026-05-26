@@ -27,12 +27,6 @@
 
 ## 📊 Projects
 
-### Customer Churn Prediction & Analysis
-
-- Performed data cleaning and EDA
-- Built Logistic Regression model
-- Identified key churn drivers
-- Created dashboards and visualizations
 
 ---
 
